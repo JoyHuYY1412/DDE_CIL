@@ -1,0 +1,4 @@
+*.pyc*
+*log*
+
+cifar100-class-incremental/run_xinting.sh
