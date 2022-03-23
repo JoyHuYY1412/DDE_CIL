@@ -3,7 +3,7 @@
 
 This repository is for the paper "Distilling Causal Effect of Data in Class-Incremental Learning".
 <div align="center">
-  <img width="70%", src="https://github.com/JoyHuYY1412/DDE_CIL/blob/main/illu.jpg"/>
+  <img width="70%", src="https://github.com/JoyHuYY1412/DDE_CIL/blob/master/illu.jpg"/>
 </div><br/>
 
 
